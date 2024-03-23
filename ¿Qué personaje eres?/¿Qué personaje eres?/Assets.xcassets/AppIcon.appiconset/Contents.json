@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "_48d4a350-775a-4cf8-9785-7a4bc2608bbf.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
